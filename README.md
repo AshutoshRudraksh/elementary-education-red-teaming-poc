@@ -30,7 +30,7 @@ This project aims to develop a robust testing environment to ensure that a Large
 
 ### Future Implementations
 
-Future research and implementation efforts will focus on enhancing the robustness and effectiveness of the ‘safe mode’ in our LLM to ensure child safety. Key areas include:
+### Future research and implementation efforts will focus on enhancing the robustness and effectiveness of the ‘safe mode’ in our LLM to ensure child safety. Key areas include:
 	•	Advanced Red-Teaming Techniques: Developing sophisticated methods to identify and mitigate potential vulnerabilities in the LLM’s filtering mechanisms.
 	•	Multimodal Content Moderation: Expanding the LLM’s capabilities to moderate various content forms, such as text, images, and videos, providing a holistic safe environment for children.
 	•	Personalized Safety Filters: Implementing adaptive filtering systems that consider individual user profiles, including age and sensitivity levels, to tailor content moderation appropriately.
